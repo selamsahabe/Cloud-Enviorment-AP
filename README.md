@@ -1,12 +1,6 @@
 # Develop and Deploy A Customer Churn Prediction Model using Python, Streamlit and Docker
 
 
-
-[![Docker Extension for RedisInsight](http://img.youtube.com/vi/RhRIFjyzIqU/hqdefault.jpg)](https://www.youtube.com/embed/RhRIFjyzIqU)
-
-
-
-
 ## Prerequisite:
 
 - An IDE/ Text Editor 
